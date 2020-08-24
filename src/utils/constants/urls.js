@@ -1,0 +1,1 @@
+export var getOmdbapi= 'http://www.omdbapi.com/?i=tt3896198&apikey=209b006f';
